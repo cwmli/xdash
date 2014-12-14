@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>paperplane.png</Source>
+      <Name>paperplane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\paperplane.xnb</Output>
+      <Time>2014-06-23T11:05:04.9500023-04:00</Time>
+    </Item>
+    <Item>
+      <Source>iconpuproses.png</Source>
+      <Name>iconpuproses</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\iconpuproses.xnb</Output>
+      <Time>2014-06-23T10:24:30.2807472-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LCloud.png</Source>
+      <Name>LCloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\LCloud.xnb</Output>
+      <Time>2014-06-24T22:20:05.6561442-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SCloud.png</Source>
+      <Name>SCloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\SCloud.xnb</Output>
+      <Time>2014-06-24T22:20:22.3931015-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Windblow.png</Source>
+      <Name>Windblow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Windblow.xnb</Output>
+      <Time>2014-06-23T11:09:37.4435881-04:00</Time>
+    </Item>
+    <Item>
+      <Source>road.png</Source>
+      <Name>road</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\road.xnb</Output>
+      <Time>2014-07-10T10:39:49.0762786-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sea.png</Source>
+      <Name>sea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\sea.xnb</Output>
+      <Time>2014-06-24T22:30:24.4405367-04:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbar.png</Source>
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbar.xnb</Output>
+      <Time>2014-06-27T19:34:50.8566062-04:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbarE.png</Source>
+      <Name>healthbarE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbarE.xnb</Output>
+      <Time>2014-06-27T19:47:50.7212119-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_variant_1_bluecolor.png</Source>
+      <Name>car_variant_1_bluecolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_bluecolor.xnb</Output>
+      <Time>2014-07-09T10:17:16.1992144-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_variant_1_greencolor.png</Source>
+      <Name>car_variant_1_greencolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_greencolor.xnb</Output>
+      <Time>2014-07-09T10:17:34.8612818-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_variant_1_purplecolor.png</Source>
+      <Name>car_variant_1_purplecolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_purplecolor.xnb</Output>
+      <Time>2014-07-09T10:17:52.6042967-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bigwheel.png</Source>
+      <Name>bigwheel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\bigwheel.xnb</Output>
+      <Time>2014-07-09T10:10:43.1547336-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_variant_2_orangecolor.png</Source>
+      <Name>car_variant_2_orangecolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_orangecolor.xnb</Output>
+      <Time>2014-07-09T10:18:08.5042061-04:00</Time>
+    </Item>
+    <Item>
+      <Source>car_variant_2_redcolor.png</Source>
+      <Name>car_variant_2_redcolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_redcolor.xnb</Output>
+      <Time>2014-07-09T10:18:24.9781484-04:00</Time>
+    </Item>
+    <Item>
+      <Source>carwheel.png</Source>
+      <Name>carwheel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\carwheel.xnb</Output>
+      <Time>2014-07-09T10:13:44.2580921-04:00</Time>
+    </Item>
+    <Item>
+      <Source>truck.png</Source>
+      <Name>truck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\truck.xnb</Output>
+      <Time>2014-07-09T10:13:03.5447634-04:00</Time>
+    </Item>
+    <Item>
+      <Source>van.png</Source>
+      <Name>van</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\van.xnb</Output>
+      <Time>2014-07-09T10:13:26.8810982-04:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrass.png</Source>
+      <Name>backgrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\backgrass.xnb</Output>
+      <Time>2014-07-10T10:51:49.857505-04:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-07-10T10:51:42.4150793-04:00</Time>
+    </Item>
+    <Item>
+      <Source>frontgrass.png</Source>
+      <Name>frontgrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\frontgrass.xnb</Output>
+      <Time>2014-07-10T10:51:57.0459161-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7BFBC894-9096-4A8A-8249-AA4CFCC5694A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly AwayContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-23T20:24:14.8497437-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
