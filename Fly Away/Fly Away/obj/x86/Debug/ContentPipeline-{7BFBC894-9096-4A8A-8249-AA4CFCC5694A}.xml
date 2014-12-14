@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Windblow.png</Source>
+      <Name>Windblow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Windblow.xnb</Output>
+      <Time>2014-06-23T11:09:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbar.png</Source>
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbar.xnb</Output>
+      <Time>2014-06-27T19:34:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbarE.png</Source>
+      <Name>healthbarE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbarE.xnb</Output>
+      <Time>2014-06-27T19:47:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Car\bigwheel.png</Source>
+      <Name>Car\bigwheel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\bigwheel.xnb</Output>
+      <Time>2014-07-09T10:10:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Car\carwheel.png</Source>
+      <Name>Car\carwheel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\carwheel.xnb</Output>
+      <Time>2014-07-09T10:13:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Car\truck.png</Source>
+      <Name>Car\truck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\truck.xnb</Output>
+      <Time>2014-07-09T10:13:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Car\van.png</Source>
+      <Name>Car\van</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\van.xnb</Output>
+      <Time>2014-07-09T10:13:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Car\car_variant_1_bluecolor.png</Source>
+      <Name>Car\car_variant_1_bluecolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\car_variant_1_bluecolor.xnb</Output>
+      <Time>2014-09-07T21:41:17.0532743-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Car\car_variant_1_greencolor.png</Source>
+      <Name>Car\car_variant_1_greencolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\car_variant_1_greencolor.xnb</Output>
+      <Time>2014-07-09T10:17:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Car\car_variant_1_purplecolor.png</Source>
+      <Name>Car\car_variant_1_purplecolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\car_variant_1_purplecolor.xnb</Output>
+      <Time>2014-07-09T10:17:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Car\car_variant_2_orangecolor.png</Source>
+      <Name>Car\car_variant_2_orangecolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\car_variant_2_orangecolor.xnb</Output>
+      <Time>2014-07-09T10:18:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Car\car_variant_2_redcolor.png</Source>
+      <Name>Car\car_variant_2_redcolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\car_variant_2_redcolor.xnb</Output>
+      <Time>2014-07-09T10:18:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene\backgrass.png</Source>
+      <Name>Scene\backgrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\backgrass.xnb</Output>
+      <Time>2014-09-07T22:12:25.8541636-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene\frontgrass.png</Source>
+      <Name>Scene\frontgrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\frontgrass.xnb</Output>
+      <Time>2014-07-10T10:51:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene\road.png</Source>
+      <Name>Scene\road</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\road.xnb</Output>
+      <Time>2014-07-10T10:39:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player.png</Source>
+      <Name>Player\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\player.xnb</Output>
+      <Time>2014-08-26T11:12:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene\background_layer1.png</Source>
+      <Name>Scene\background_layer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\background_layer1.xnb</Output>
+      <Time>2014-09-07T21:34:58.1466021-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene\background_layer2.png</Source>
+      <Name>Scene\background_layer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\background_layer2.xnb</Output>
+      <Time>2014-09-07T21:37:25.6130367-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene\background_layer3.png</Source>
+      <Name>Scene\background_layer3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\background_layer3.xnb</Output>
+      <Time>2014-08-23T17:32:59.5505288-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene\background_layer4.png</Source>
+      <Name>Scene\background_layer4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\background_layer4.xnb</Output>
+      <Time>2014-08-23T17:34:46.3486373-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\playerjumpfallSS.png</Source>
+      <Name>Player\playerjumpfallSS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\playerjumpfallSS.xnb</Output>
+      <Time>2014-09-05T22:52:28.4511196-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\playerjumpSS.png</Source>
+      <Name>Player\playerjumpSS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\playerjumpSS.xnb</Output>
+      <Time>2014-09-05T22:51:59.522465-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\playerrunSS.png</Source>
+      <Name>Player\playerrunSS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\playerrunSS.xnb</Output>
+      <Time>2014-08-28T20:17:55.4097155-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\jumpeffect.png</Source>
+      <Name>Player\jumpeffect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\jumpeffect.xnb</Output>
+      <Time>2014-09-07T22:36:05.7463768-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\elbowdash.png</Source>
+      <Name>Player\elbowdash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\elbowdash.xnb</Output>
+      <Time>2014-09-07T22:53:04.6966574-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene\newtitle.png</Source>
+      <Name>Scene\newtitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\newtitle.xnb</Output>
+      <Time>2014-09-10T20:22:08.7221831-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene\watersparkles.png</Source>
+      <Name>Scene\watersparkles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\watersparkles.xnb</Output>
+      <Time>2014-09-10T20:53:05.8074023-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene\gametitle.png</Source>
+      <Name>Scene\gametitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\gametitle.xnb</Output>
+      <Time>2014-09-13T18:44:25.3740644-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7BFBC894-9096-4A8A-8249-AA4CFCC5694A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly AwayContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-23T20:24:14.8497437-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

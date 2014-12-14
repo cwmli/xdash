@@ -1,0 +1,196 @@
+c:\users\calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\paperplane.xnb
+c:\users\calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.exe
+c:\users\calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.pdb
+c:\users\calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.csprojResolveAssemblyReference.cache
+c:\users\calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.exe
+c:\users\calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.pdb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\iconpuproses.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\LCloud.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\SCloud.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Windblow.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\road.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\sea.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbarE.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_bluecolor.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_greencolor.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_purplecolor.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\bigwheel.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_orangecolor.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_redcolor.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\carwheel.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\truck.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\van.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\backgrass.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\background.xnb
+C:\Users\Calvin\documents\visual studio 2013\Projects\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\frontgrass.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\paperplane.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\iconpuproses.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\LCloud.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\SCloud.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Windblow.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\sea.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbar.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbarE.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\bigwheel.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\carwheel.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\truck.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\van.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_bluecolor.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_greencolor.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_purplecolor.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_orangecolor.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_redcolor.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\backgrass.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\background.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\frontgrass.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\road.xnb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.exe
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.pdb
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.csprojResolveAssemblyReference.cache
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.exe
+E:\Documents\MediaFire\MediaFire\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.pdb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\paperplane.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\iconpuproses.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\LCloud.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\SCloud.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Windblow.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\sea.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbarE.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\bigwheel.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\carwheel.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\truck.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\van.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_bluecolor.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_greencolor.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_purplecolor.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_orangecolor.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_redcolor.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\backgrass.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\background.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\frontgrass.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\road.xnb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.exe
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.pdb
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.csprojResolveAssemblyReference.cache
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.exe
+C:\Users\Turtle\Documents\Calvin Works\MediaFire\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.pdb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\paperplane.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\iconpuproses.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Windblow.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbar.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbarE.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\bigwheel.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\carwheel.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\truck.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\van.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_bluecolor.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_greencolor.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_purplecolor.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_orangecolor.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_redcolor.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\backgrass.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\background.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\frontgrass.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\road.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.exe
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.pdb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.csprojResolveAssemblyReference.cache
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.exe
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.pdb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\player.xnb
+G:\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\playerrunSS.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Windblow.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbarE.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\bigwheel.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\carwheel.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\truck.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\van.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_bluecolor.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_greencolor.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_purplecolor.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_orangecolor.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_redcolor.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\backgrass.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\background.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\frontgrass.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\road.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\player.xnb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.exe
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.pdb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.csprojResolveAssemblyReference.cache
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.exe
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.pdb
+C:\Users\Calvin\Desktop\Programming\C#\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\playerrunSS.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Windblow.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbarE.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\bigwheel.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\carwheel.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\truck.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\van.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_bluecolor.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_greencolor.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_1_purplecolor.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_orangecolor.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\car_variant_2_redcolor.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\backgrass.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\frontgrass.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\road.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\player.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\playerrunSS.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\background_layer1.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\background_layer2.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\background_layer3.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\background_layer4.xnb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.exe
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Fly Away.pdb
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.csprojResolveAssemblyReference.cache
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.exe
+C:\Users\Calvin\Desktop\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.pdb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Windblow.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbar.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\healthbarE.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Fly Away.csprojResolveAssemblyReference.cache
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\bigwheel.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\carwheel.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\truck.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\van.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\car_variant_1_bluecolor.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\car_variant_1_greencolor.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\car_variant_1_purplecolor.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\car_variant_2_orangecolor.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Car\car_variant_2_redcolor.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\backgrass.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\frontgrass.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\road.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\player.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\background_layer1.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\background_layer2.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\background_layer3.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\background_layer4.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\playerjumpfallSS.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\playerjumpSS.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\playerrunSS.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\jumpeffect.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Player\elbowdash.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\newtitle.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\watersparkles.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\Content\Scene\gametitle.xnb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\X-Dash.exe.manifest
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\X-Dash.application
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\X-Dash.exe
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\bin\x86\Debug\X-Dash.pdb
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\X-Dash.exe.manifest
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\X-Dash.application
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\X-Dash.exe
+E:\Documents\Calvin Works\Programming\C#\VS2013\XNA 4.0\Fly Away\Fly Away\Fly Away\obj\x86\Debug\X-Dash.pdb
